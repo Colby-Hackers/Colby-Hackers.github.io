@@ -1,6 +1,6 @@
 # hackers-site
 
-Hi there! This is the website for the Colby Hackers. The site is built on Jekyll, a platform that makes it easy to maintain blog-like websites. The theme I ([Tyler Hansen](https://github.com/tylermhansen)) am using to create the site is called Agency, and it was originally a BootStrap theme. Agency is licensed under the MIT License.  
+Hi there! This is the website for the Colby Hackers. The site is built on Jekyll, a platform that makes it easy to maintain blog-like websites. The theme I ([Tyler Hansen](https://github.com/tylermhansen)) am using to create the site is called Agency, and it was originally a BootStrap theme. Agency is licensed under the MIT License. Originally, this repo was forked from https://github.com/y7kim/agency-jekyll-theme. We needed to be at the top-level however so that we could use the Colby URL.
 
 ## How to contribute
 
