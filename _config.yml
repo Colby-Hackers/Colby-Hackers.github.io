@@ -1,0 +1,111 @@
+url: https://colby-hackers.github.io # Insert this once we get domain name
+baseurl:
+
+# Site settings
+title: Colby Hackers
+email: tyler.hansen@colby.edu # Insert this once we get an email setup
+description: "The Colby Hackers are a group of students at Colby College in Waterville, Maine dedicated to raising awareness for all things CS."
+
+
+# Team names, titles and social links
+people:
+- name: Ethan Seal
+  pic: 1
+  position: Co-President
+  social:
+    - title: linkedin
+      url: https://linkedin.com/in/ethan-s-119879121/
+
+- name: Sawyer Strong
+  pic: 2
+  position: Co-President
+  social:
+    - title: linkedin
+      url: https://linkedin.com/in/sawyer-strong/
+    - title: github
+      url: https://github.com/sawyerstrong
+
+- name: Tyler Hansen
+  pic: 3
+  position: Publicity Chair
+  social:
+    - title: linkedin
+      url: https://linkedin.com/in/tylerhansencode/
+    - title: github
+      url: https://github.com/tylermhansen
+
+- name: Iris Liu
+  pic: 5
+  position: Treasurer
+  social:
+    - title: linkedin
+      url: https://www.linkedin.com/in/bingya-liu/
+
+- name: Henry Pacheco Cachon
+  pic: 42
+  position: Secretary
+  social:
+    - title: linkedin
+      url: https://www.linkedin.com/in/henry-pacheco-cachon-6564a5191/
+
+- name: Bruce Maxwell
+  pic: 4
+  position: Faculty Advisor
+  social:
+    - title: linkedin
+      url: https://www.linkedin.com/in/bruce-maxwell-60505728/
+
+- name: Kuukua Damptey
+  pic: 42
+  position: Active Member
+  social:
+
+- name: Robert Durst
+  pic: 42
+  position: Active Member
+  social:
+    - title: linkedin
+      url: https://linkedin.com/in/robertdurst/
+
+- name: Dhruv Joshi
+  pic: 42
+  position: Active Member
+  social:
+    - title: linkedin
+      url: https://www.linkedin.com/in/dhruvjoshi1998/
+
+- name: Tate Ewing
+  pic: 42
+  position: Active Member
+  social:
+    - title: linkedin
+      url: linkedin.com/in/tate-ewing-940794159/
+
+- name: Brendan Martin
+  pic: 42
+  position: Active Member
+  social:
+
+- name: Maan Qraitem
+  pic: 42
+  position: Active Member
+  social:
+    - title: linkedin
+      url: https://www.linkedin.com/in/mqraitem/
+
+
+# Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
+social:
+  - title: github
+    url: http://github.com/Colby-Hackers
+  - title: instagram
+    url: http://instagram.com/colbyhackers
+
+# Postal address (add as many lines as necessary)
+address:
+  - line: Mayflower Hill
+  - line: Waterville, ME 04901
+
+# Build settings
+markdown: kramdown
+permalink: pretty

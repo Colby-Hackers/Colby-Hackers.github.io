@@ -1,0 +1,25 @@
+  <footer>
+        <div class="container">
+            <div class="row">
+                <div class="col-md-4">
+                    <span class="copyright">Web Development by Tyler Hansen 2019</span>
+                </div>
+                <div class="col-md-4">
+                    <ul class="list-inline social-buttons">
+                        {% for network in site.social %}
+                        <li><a href="{{ network.url }}"><i class="fa fa-{{ network.title }}"></i></a>
+                        </li>
+                        {% endfor %}
+                    </ul>
+                </div>
+                <div class="col-md-4">
+                    <ul class="list-inline quicklinks">
+                        <li><a href="https://github.com/Colby-Hackers/hackers-site">Website Information</a>
+                        </li>
+                        <li><a href="https://www.colby.edu/">Colby College</a>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </footer>
