@@ -42,7 +42,7 @@ people:
       url: https://www.linkedin.com/in/bingya-liu/
 
 - name: Henry Pacheco Cachon
-  pic: 42
+  pic: 6
   position: Secretary
   social:
     - title: linkedin
@@ -61,25 +61,19 @@ people:
   social:
 
 - name: Robert Durst
-  pic: 42
+  pic: 8
   position: Active Member
   social:
     - title: linkedin
       url: https://linkedin.com/in/robertdurst/
 
-- name: Dhruv Joshi
-  pic: 42
-  position: Active Member
-  social:
-    - title: linkedin
-      url: https://www.linkedin.com/in/dhruvjoshi1998/
 
-- name: Tate Ewing
-  pic: 42
+- name: Matt Jones
+  pic: 7
   position: Active Member
   social:
     - title: linkedin
-      url: linkedin.com/in/tate-ewing-940794159/
+      url: https://www.linkedin.com/in/matthew-jones-1b8852133/
 
 - name: Brendan Martin
   pic: 42
@@ -87,7 +81,7 @@ people:
   social:
 
 - name: Maan Qraitem
-  pic: 42
+  pic: 9
   position: Active Member
   social:
     - title: linkedin
