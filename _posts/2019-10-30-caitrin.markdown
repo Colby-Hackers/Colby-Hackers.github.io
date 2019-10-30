@@ -1,0 +1,14 @@
+---
+title: Prof. Caitrin Eaton's Research
+subtitle: Come Eat Food and Learn About Caitrin's Research
+layout: default
+modal-id: 3
+date: 2019-10-30
+img: caitrin.png
+thumbnail: caitrin-thumbnail.png
+alt: image-alt
+project-date: October 2019
+category: Events, Research
+description: The Colby Hackers will be hosting an informal colloquium of sorts, featuring Prof. Caitrin Eaton! Caitrin will be giving a presentation about her research. Caitrin's work at the Colby College Computational Physiology & Optimization (C3PO) Lab is "centered around the use of biologically inspired legged robotic systems as a platform for symbiotic investigations into robotic mobility and the functional implications of design features in animal physiology". It's very cool stuff. There will also be FOOD (including *frosted items* per Caitrin's request), and you should totally be there. The event venue is TBD, but we know that it will be at 7:00 PM on Wednesday, November 6th. See you there! - Tyler 
+
+---
