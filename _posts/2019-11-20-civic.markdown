@@ -1,0 +1,14 @@
+---
+title: Civic Engagement Project
+subtitle: The Colby Hackers Get Hired
+layout: default
+modal-id: 4
+date: 2019-10-30
+img: civicengagement.png
+thumbnail: civic-thumbnail.png
+alt: image-alt
+project-date: November 2019
+category: Projects, Campus
+description: The Colby Hackers have been hired for the first time! The Colby Office of Civic Engagement is looking for a new software solution to logging voluneer hours and strengthening the organnization-to-volunteer network within Waterville. We are going to create the product for them over Jan Plan, and know that it will help Colby students give back to Waterville. - Tyler 
+
+---
