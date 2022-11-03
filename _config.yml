@@ -86,6 +86,15 @@ people:
   social:
     - title: linkedin
       url: https://www.linkedin.com/in/mqraitem/
+      
+ - name: Jasper Loverude
+  pic: 10
+  position: Co-President
+  social:
+    - title: linkedin
+      url: https://linkedin.com/in/jasper-loverude/
+    - title: github
+      url: https://github.com/jasper-lov
 
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
