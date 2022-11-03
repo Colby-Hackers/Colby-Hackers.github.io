@@ -9,16 +9,25 @@ description: "The Colby Hackers are a group of students at Colby College in Wate
 
 # Team names, titles and social links
 people:
+- name: Jasper Loverude
+  pic: jasperloverude
+  position: Active Member
+  social:
+    - title: linkedin
+      url: https://www.linkedin.com/in/jasperloverude/
+    - title: github
+      url: https://github.com/jasper-lov
+
 - name: Ethan Seal
   pic: 1
-  position: Co-President
+  position: Former President
   social:
     - title: linkedin
       url: https://linkedin.com/in/ethan-s-119879121/
 
 - name: Sawyer Strong
   pic: 2
-  position: Co-President
+  position: Former President
   social:
     - title: linkedin
       url: https://linkedin.com/in/sawyer-strong/
@@ -27,7 +36,7 @@ people:
 
 - name: Tyler Hansen
   pic: 3
-  position: Publicity Chair
+  position: Former President, Publicity Chair
   social:
     - title: linkedin
       url: https://linkedin.com/in/tylerhansencode/
@@ -86,15 +95,6 @@ people:
   social:
     - title: linkedin
       url: https://www.linkedin.com/in/mqraitem/
-     
-- name: Jasper Loverude
-  pic: 10
-  position: Active Member
-  social:
-    - title: linkedin
-      url: https://www.linkedin.com/in/jasperloverude/
-    - title: github
-      url: https://github.com/jasper-lov
 
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
