@@ -86,13 +86,13 @@ people:
   social:
     - title: linkedin
       url: https://www.linkedin.com/in/mqraitem/
-      
- - name: Jasper Loverude
+     
+- name: Jasper Loverude
   pic: 10
-  position: Co-President
+  position: Active Member
   social:
     - title: linkedin
-      url: https://linkedin.com/in/jasper-loverude/
+      url: https://www.linkedin.com/in/jasperloverude/
     - title: github
       url: https://github.com/jasper-lov
 
