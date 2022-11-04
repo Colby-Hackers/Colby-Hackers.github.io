@@ -96,6 +96,15 @@ people:
     - title: linkedin
       url: https://www.linkedin.com/in/mqraitem/
 
+- name: Dale Skrien
+pic: daleskrien
+position: Active Member
+social:
+  - title: linkedin
+    url: https://www.linkedin.com/in/dale-skrien-82b45610/
+  - title: github
+    url: https://github.com/jasper-lov
+
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
