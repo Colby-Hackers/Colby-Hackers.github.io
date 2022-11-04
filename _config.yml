@@ -155,6 +155,15 @@ people:
     - title: linkedin
       url: https://www.linkedin.com/in/hesed-guwn-459701213/
 
+- name: Dave Boku
+  pic: daveboku
+  position: Active Member
+  social:
+    - title: linkedin
+      url: https://www.linkedin.com/in/dawit-boku-10b7a6252/
+    - title: github
+      url: https://github.com/dave-sbs/
+
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
   - title: github
