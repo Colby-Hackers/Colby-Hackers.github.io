@@ -96,6 +96,13 @@ people:
     - title: linkedin
       url: https://www.linkedin.com/in/mqraitem/
 
+- name: Hesed Guwn
+  pic: profilebutjpg
+  position: Active Member
+  social:
+    - title: linkedin
+      url: https://www.linkedin.com/in/hesed-guwn-459701213/
+
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
