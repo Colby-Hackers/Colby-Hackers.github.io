@@ -90,6 +90,15 @@ people:
     - title: linkedin
       url: https://www.linkedin.com/in/cynthia-zafiris-941325228/
 
+- name: Camila Naranjo
+  pic:
+  position: Active Member
+  social:
+    - title: linkedin
+      url: https://www.linkedin.com/in/camilavnaranjo/
+    - title: github
+      url: https://github.com/camilavn
+
 - name: Ashley Ren
   pic: yren 
   position: Active Member
