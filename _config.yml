@@ -83,6 +83,13 @@ people:
   position: Active Member
   social:
 
+- name: Cynthia Zafiris
+  pic: 42
+  position: Active Member
+  social:
+    - title: linkedin
+      url: https://www.linkedin.com/in/cynthia-zafiris-941325228/
+
 - name: Ashley Ren
   pic: yren 
   position: Active Member
@@ -91,7 +98,6 @@ people:
       url: https://www.linkedin.com/in/ashley-yaxuan-ren-b7b150205
     - title: github
       url: https://github.com/ryxGuo
-
 
 - name: Benson Yam
   pic: 321
@@ -106,7 +112,6 @@ people:
   social:
     - title: linkedin
       url: https://linkedin.com/in/robertdurst/
-
 
 - name: Matt Jones
   pic: 7
