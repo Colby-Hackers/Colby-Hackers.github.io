@@ -106,6 +106,18 @@ people:
     - title: linkedin
       url: https://www.linkedin.com/in/mqraitem/
 
+  
+- name: Minh Nguyen
+  pic: minh
+  position: Active Member
+  social:
+  - title: github
+    url: https://github.com/minhsobad1707
+  - title: instagram
+    url: https://www.instagram.com/tommy__.ng/
+  
+  
+
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
