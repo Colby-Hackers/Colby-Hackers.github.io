@@ -69,6 +69,16 @@ people:
   position: Active Member
   social:
 
+- name: Ashley Ren
+  pic: yren 
+  position: Active Member
+  social:
+    - title: linkedin
+      url: https://www.linkedin.com/in/ashley-yaxuan-ren-b7b150205
+    - title: github
+      url: https://github.com/ryxGuo
+
+
 - name: Robert Durst
   pic: 8
   position: Active Member
