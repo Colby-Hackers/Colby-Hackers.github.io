@@ -96,6 +96,14 @@ people:
     - title: linkedin
       url: https://www.linkedin.com/in/mqraitem/
 
+- name: Leo Qian
+  pic: leoqian
+  position: Active Member
+  social:
+    - title: linkedin
+      url: https://www.linkedin.com/in/zhouyi-qian/
+    - title: github
+      url: https://github.com/leoqian2019/cs361
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
