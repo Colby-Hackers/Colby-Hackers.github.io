@@ -69,6 +69,13 @@ people:
   position: Active Member
   social:
 
+- name: Cynthia Zafiris
+  pic: cynthiapic
+  position: Active Member
+  social:
+    - title: linkedin
+      url: https://www.linkedin.com/in/cynthia-zafiris-941325228/
+
 - name: Robert Durst
   pic: 8
   position: Active Member
