@@ -19,11 +19,13 @@ people:
       url: https://github.com/jasper-lov
 
 - name: Kuukua Damptey
-  pic: 42
+  pic: kuukua
   position: Active Member
   social:
   - title: linkedin
       url: https://www.linkedin.com/in/kuukua-damptey/
+  - title: github
+      url: https://github.com/kkdamptey
 
       
 - name: Ethan Seal
