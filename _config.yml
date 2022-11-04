@@ -9,6 +9,13 @@ description: "The Colby Hackers are a group of students at Colby College in Wate
 
 # Team names, titles and social links
 people:
+- name: Liam Cassidy
+  pic: liamcassidy
+  position: Active Member
+  social:
+    - title: linkedin
+      url: https://www.linkedin.com/in/liam-cassidy-33b530252/
+ 
 - name: Jasper Loverude
   pic: jasperloverude
   position: Active Member
@@ -63,11 +70,28 @@ people:
   social:
     - title: linkedin
       url: https://www.linkedin.com/in/bruce-maxwell-60505728/
+      
+- name: Parth Parth
+  pic: 42
+  position: Active Member
+  social:
+    - title: linkedin
+      url: https://www.linkedin.com/in/hiparthparth/
 
 - name: Kuukua Damptey
   pic: 42
   position: Active Member
   social:
+
+- name: Ashley Ren
+  pic: yren 
+  position: Active Member
+  social:
+    - title: linkedin
+      url: https://www.linkedin.com/in/ashley-yaxuan-ren-b7b150205
+    - title: github
+      url: https://github.com/ryxGuo
+
 
 - name: Benson Yam
   pic: 321
@@ -103,6 +127,21 @@ people:
     - title: linkedin
       url: https://www.linkedin.com/in/mqraitem/
 
+- name: Leo Qian
+  pic: leoqian
+  position: Active Member
+  social:
+    - title: linkedin
+      url: https://www.linkedin.com/in/zhouyi-qian/
+    - title: github
+      url: https://github.com/leoqian2019/cs361
+
+- name: x Hesed Guwn
+  pic: profilebutjpg
+  position: Active Member
+  social:
+    - title: linkedin
+      url: https://www.linkedin.com/in/hesed-guwn-459701213/
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
