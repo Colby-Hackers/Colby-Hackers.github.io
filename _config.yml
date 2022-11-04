@@ -69,6 +69,13 @@ people:
   position: Active Member
   social:
 
+- name: Benson Yam
+  pic: 321
+  position: Active Member
+  social:
+    - title: linkedin
+      url: https://www.linkedin.com/in/benson-yam-63b80b203/
+
 - name: Robert Durst
   pic: 8
   position: Active Member
