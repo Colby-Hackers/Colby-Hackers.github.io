@@ -63,6 +63,13 @@ people:
   social:
     - title: linkedin
       url: https://www.linkedin.com/in/bruce-maxwell-60505728/
+      
+- name: Parth Parth
+  pic: 42
+  position: Active Member
+  social:
+    - title: linkedin
+      url: https://www.linkedin.com/in/hiparthparth/
 
 - name: Kuukua Damptey
   pic: 42
