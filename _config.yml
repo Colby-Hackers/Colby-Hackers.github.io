@@ -18,6 +18,14 @@ people:
     - title: github
       url: https://github.com/jasper-lov
 
+- name: Kuukua Damptey
+  pic: 42
+  position: Active Member
+  social:
+  - title: linkedin
+      url: https://www.linkedin.com/in/kuukua-damptey/
+
+      
 - name: Ethan Seal
   pic: 1
   position: Former President
@@ -64,10 +72,7 @@ people:
     - title: linkedin
       url: https://www.linkedin.com/in/bruce-maxwell-60505728/
 
-- name: Kuukua Damptey
-  pic: 42
-  position: Active Member
-  social:
+
 
 - name: Robert Durst
   pic: 8
