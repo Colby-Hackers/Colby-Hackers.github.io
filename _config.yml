@@ -96,6 +96,13 @@ people:
     - title: linkedin
       url: https://www.linkedin.com/in/mqraitem/
 
+- name: Hayden Bailey
+  pic: hayden_bailey
+  position: Active Member
+  social:
+    - title: github
+      url: https://github.com/haydenbailey03
+
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
