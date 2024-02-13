@@ -1,162 +1,106 @@
 url: https://colby-hackers.github.io # Insert this once we get domain name
 baseurl:
-
 # Site settings
 title: Colby Hackers
 email: tyler.hansen@colby.edu # Insert this once we get an email setup
 description: "The Colby Hackers are a group of students at Colby College in Waterville, Maine dedicated to raising awareness for all things CS."
-
+# Team names, titles and social links
+people:
 - name: Liam Cassidy
-    pic: liamcassidy
-    position: Active Member
-    social:
-      - title: linkedin
-        url: https://www.linkedin.com/in/liam-cassidy-33b530252/
-
-  - name: Jasper Loverude
-    pic: jasperloverude
-    position: Active Member
-    social:
-      - title: linkedin
-        url: https://www.linkedin.com/in/jasperloverude/
-      - title: github
-        url: https://github.com/jasper-lov
-
-  - name: Ethan Seal
-    pic: 1
-    position: Former President
-    social:
-      - title: linkedin
-        url: https://linkedin.com/in/ethan-s-119879121/
-
-  - name: Sawyer Strong
-    pic: 2
-    position: Former President
-    social:
-      - title: linkedin
-        url: https://linkedin.com/in/sawyer-strong/
-      - title: github
-        url: https://github.com/sawyerstrong
-
-  - name: Tyler Hansen
-    pic: 3
-    position: Former President, Publicity Chair
-    social:
-      - title: linkedin
-        url: https://linkedin.com/in/tylerhansencode/
-      - title: github
-        url: https://github.com/tylermhansen
-
-  - name: Iris Liu
-    pic: 5
-    position: Treasurer
-    social:
-      - title: linkedin
-        url: https://www.linkedin.com/in/bingya-liu/
-
-  - name: Henry Pacheco Cachon
-    pic: 6
-    position: Secretary
-    social:
-      - title: linkedin
-        url: https://www.linkedin.com/in/henry-pacheco-cachon-6564a5191/
-
-  - name: Bruce Maxwell
-    pic: 4
-    position: Faculty Advisor
-    social:
-      - title: linkedin
-        url: https://www.linkedin.com/in/bruce-maxwell-60505728/
-
-  - name: Parth Parth
-    pic: 42
-    position: Active Member
-    social:
-      - title: linkedin
-        url: https://www.linkedin.com/in/hiparthparth/
-
-  - name: Kuukua Damptey
-    pic: 42
-    position: Active Member
-    social:
-
-  - name: Cynthia Zafiris
-    pic: 42
-    position: Active Member
-    social:
-      - title: linkedin
-        url: https://www.linkedin.com/in/cynthia-zafiris-941325228/
-
-  - name: Ashley Ren
-    pic: yren
-    position: Active Member
-    social:
-      - title: linkedin
-        url: https://www.linkedin.com/in/ashley-yaxuan-ren-b7b150205
-      - title: github
-        url: https://github.com/ryxGuo
-
-  - name: Benson Yam
-    pic: 321
-    position: Active Member
-    social:
-      - title: linkedin
-        url: https://www.linkedin.com/in/benson-yam-63b80b203/
-
-  - name: Robert Durst
-    pic: 8
-    position: Active Member
-    social:
-      - title: linkedin
-        url: https://linkedin.com/in/robertdurst/
-
-  - name: Matt Jones
-    pic: 7
-    position: Active Member
-    social:
-      - title: linkedin
-        url: https://www.linkedin.com/in/matthew-jones-1b8852133/
-
-  - name: Nafis Saadiq
-    pic: Nafis-Saadiq
-    position: Active Member
-    social:
-      - title: Linkedin
-        url: https://www.linkedin.com/in/nafis-saadiq-bhuiyan123/
-
-  - name: Brendan Martin
-    pic: 42
-    position: Active Member
-    social:
-
-  - name: Maan Qraitem
-    pic: 9
-    position: Active Member
-    social:
-      - title: linkedin
-        url: https://www.linkedin.com/in/mqraitem/
-
-  - name: Leo Qian
-    pic: leoqian
-    position: Active Member
-    social:
-      - title: linkedin
-        url: https://www.linkedin.com/in/zhouyi-qian/
-      - title: github
-        url: https://github.com/leoqian2019/cs361
-
-  - name: x Hesed Guwn
-    pic: profilebutjpg
-    position: Active Member
-    social:
-      - title: linkedin
-        url: https://www.linkedin.com/in/hesed-guwn-459701213/
-
-  - name: Cathy Fan
-    pic: cathyfan
-    position: Active Member
-    social:
-      - title: linkedin
-        url: https://www.linkedin.com/in/chengyu-f-38578b245/
-      - title: github
-        url: https://github.com/cathymonkey
+  pic: liamcassidy
+  position: Active Member
+  social:
+    - title: linkedin
+      url: https://www.linkedin.com/in/liam-cassidy-33b530252/
+ 
+- name: Jasper Loverude
+  pic: jasperloverude
+  position: Active Member
+  social:
+    - title: linkedin
+      url: https://www.linkedin.com/in/jasperloverude/
+    - title: github
+      url: https://github.com/jasper-lov
+- name: Ethan Seal
+  pic: 1
+  position: Former President
+  social:
+    - title: linkedin
+      url: https://linkedin.com/in/ethan-s-119879121/
+- name: Sawyer Strong
+  pic: 2
+  position: Former President
+  social:
+    - title: linkedin
+      url: https://linkedin.com/in/sawyer-strong/
+    - title: github
+      url: https://github.com/sawyerstrong
+- name: Tyler Hansen
+  pic: 3
+  position: Former President, Publicity Chair
+  social:
+    - title: linkedin
+      url: https://linkedin.com/in/tylerhansencode/
+    - title: github
+      url: https://github.com/tylermhansen
+- name: Iris Liu
+  pic: 5
+  position: Treasurer
+  social:
+    - title: linkedin
+      url: https://www.linkedin.com/in/bingya-liu/
+- name: Henry Pacheco Cachon
+  pic: 6
+  position: Secretary
+  social:
+    - title: linkedin
+      url: https://www.linkedin.com/in/henry-pacheco-cachon-6564a5191/
+- name: Bruce Maxwell
+  pic: 4
+  position: Faculty Advisor
+  social:
+    - title: linkedin
+      url: https://www.linkedin.com/in/bruce-maxwell-60505728/
+      
+- name: Parth Parth
+  pic: 42
+  position: Active Member
+  social:
+    - title: linkedin
+      url: https://www.linkedin.com/in/hiparthparth/
+- name: Kuukua Damptey
+  pic: 42
+  position: Active Member
+  social:
+- name: Cynthia Zafiris
+  pic: 42
+  position: Active Member
+  social:
+    - title: linkedin
+      url: https://www.linkedin.com/in/cynthia-zafiris-941325228/
+- name: Ashley Ren
+  pic: yren 
+  position: Active Member
+  social:
+    - title: linkedin
+      url: https://www.linkedin.com/in/ashley-yaxuan-ren-b7b150205
+    - title: github
+      url: https://github.com/ryxGuo
+- name: Benson Yam
+  pic: 321
+  position: Active Member
+  social:
+    - title: linkedin
+      url: https://www.linkedin.com/in/benson-yam-63b80b203/
+- name: Robert Durst
+  pic: 8
+  position: Active Member
+  social:
+    - title: linkedin
+      url: https://linkedin.com/in/robertdurst/
+- name: Matt Jones
+  pic: 7
+  position: Active Member
+  social:
+    - title: linkedin
+      url: https://www.linkedin.com/in/matthew-jones-1b8852133/
