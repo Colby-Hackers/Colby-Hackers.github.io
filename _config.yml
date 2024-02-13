@@ -6,23 +6,21 @@ title: Colby Hackers
 email: tyler.hansen@colby.edu # Insert this once we get an email setup
 description: "The Colby Hackers are a group of students at Colby College in Waterville, Maine dedicated to raising awareness for all things CS."
 
-# Team names, titles and social links
-people:
-  - name: Jasper Loverude
-    pic: jasperloverude
-    position: President
-    social:
-      - title: linkedin
-        url: https://www.linkedin.com/in/jasperloverude/
-      - title: github
-        url: https://github.com/jasper-lov
-
-  - name: Liam Cassidy
+- name: Liam Cassidy
     pic: liamcassidy
     position: Active Member
     social:
       - title: linkedin
         url: https://www.linkedin.com/in/liam-cassidy-33b530252/
+
+  - name: Jasper Loverude
+    pic: jasperloverude
+    position: Active Member
+    social:
+      - title: linkedin
+        url: https://www.linkedin.com/in/jasperloverude/
+      - title: github
+        url: https://github.com/jasper-lov
 
   - name: Ethan Seal
     pic: 1
@@ -162,28 +160,3 @@ people:
         url: https://www.linkedin.com/in/chengyu-f-38578b245/
       - title: github
         url: https://github.com/cathymonkey
-
-- name: Dave Boku
-  pic: daveboku
-  position: Active Member
-  social:
-    - title: linkedin
-      url: https://www.linkedin.com/in/dawit-boku-10b7a6252/
-    - title: github
-      url: https://github.com/dave-sbs/
-
-# Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
-social:
-  - title: github
-    url: http://github.com/Colby-Hackers
-  - title: instagram
-    url: http://instagram.com/colbyhackers
-
-# Postal address (add as many lines as necessary)
-address:
-  - line: Mayflower Hill
-  - line: Waterville, ME 04901
-
-# Build settings
-markdown: kramdown
-permalink: pretty
