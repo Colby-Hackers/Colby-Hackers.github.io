@@ -8,21 +8,21 @@ description: "The Colby Hackers are a group of students at Colby College in Wate
 
 # Team names, titles and social links
 people:
+  - name: Jasper Loverude
+    pic: jasperloverude
+    position: President
+    social:
+      - title: linkedin
+        url: https://www.linkedin.com/in/jasperloverude/
+      - title: github
+        url: https://github.com/jasper-lov
+
   - name: Liam Cassidy
     pic: liamcassidy
     position: Active Member
     social:
       - title: linkedin
         url: https://www.linkedin.com/in/liam-cassidy-33b530252/
-
-  - name: Jasper Loverude
-    pic: jasperloverude
-    position: Active Member
-    social:
-      - title: linkedin
-        url: https://www.linkedin.com/in/jasperloverude/
-      - title: github
-        url: https://github.com/jasper-lov
 
   - name: Ethan Seal
     pic: 1
