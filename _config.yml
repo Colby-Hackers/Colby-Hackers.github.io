@@ -6,27 +6,22 @@ email: tyler.hansen@colby.edu # Insert this once we get an email setup
 description: "The Colby Hackers are a group of students at Colby College in Waterville, Maine dedicated to raising awareness for all things CS."
 # Team names, titles and social links
 people:
-- name: Liam Cassidy
-  pic: liamcassidy
-  position: Active Member
-  social:
-    - title: linkedin
-      url: https://www.linkedin.com/in/liam-cassidy-33b530252/
- 
 - name: Jasper Loverude
   pic: jasperloverude
-  position: Active Member
+  position: President
   social:
     - title: linkedin
       url: https://www.linkedin.com/in/jasperloverude/
     - title: github
       url: https://github.com/jasper-lov
+
 - name: Ethan Seal
   pic: 1
   position: Former President
   social:
     - title: linkedin
       url: https://linkedin.com/in/ethan-s-119879121/
+      
 - name: Sawyer Strong
   pic: 2
   position: Former President
@@ -35,6 +30,7 @@ people:
       url: https://linkedin.com/in/sawyer-strong/
     - title: github
       url: https://github.com/sawyerstrong
+      
 - name: Tyler Hansen
   pic: 3
   position: Former President, Publicity Chair
@@ -43,6 +39,7 @@ people:
       url: https://linkedin.com/in/tylerhansencode/
     - title: github
       url: https://github.com/tylermhansen
+      
 - name: Iris Liu
   pic: 5
   position: Treasurer
